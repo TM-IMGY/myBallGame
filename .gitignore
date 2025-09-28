@@ -4,6 +4,7 @@ Temp/
 Logs/
 Obj/
 MemoryCaptures/
+*.unitypackage
 
 # Ignore the editor settings
 .vscode/
